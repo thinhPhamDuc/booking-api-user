@@ -1,0 +1,142 @@
+[
+    {
+        "id": 2,
+        "name": "Nguyễn Nhân Viên 0002",
+        "departmentCode": "D2",
+        "departmentName": "F2-SE1",
+        "effort": null
+    },
+    {
+        "id": 21,
+        "name": "Nguyễn Nhân Viên 0021",
+        "departmentCode": "D2",
+        "departmentName": "F2-SE1",
+        "effort": null
+    },
+    {
+        "id": 22,
+        "name": "Nguyễn Nhân Viên 0022",
+        "departmentCode": "QA1",
+        "departmentName": "F2-QA",
+        "effort": null
+    },
+    {
+        "id": 28,
+        "name": "Nguyễn Nhân Viên 0028",
+        "departmentCode": "QA2",
+        "departmentName": "F1-QA",
+        "effort": null
+    },
+    {
+        "id": 30,
+        "name": "Nguyễn Nhân Viên 0030",
+        "departmentCode": "D1",
+        "departmentName": "F1-SE1",
+        "effort": null
+    },
+    {
+        "id": 38,
+        "name": "Nguyễn Nhân Viên 0038",
+        "departmentCode": "D1",
+        "departmentName": "F1-SE1",
+        "effort": null
+    },
+    {
+        "id": 47,
+        "name": "Nguyễn Nhân Viên 0047",
+        "departmentCode": "D1",
+        "departmentName": "F1-SE1",
+        "effort": null
+    },
+    {
+        "id": 55,
+        "name": "Nguyễn Nhân Viên 0055",
+        "departmentCode": "D4",
+        "departmentName": "F1-SE2",
+        "effort": null
+    },
+    {
+        "id": 58,
+        "name": "Nguyễn Nhân Viên 0058",
+        "departmentCode": "D4",
+        "departmentName": "F1-SE2",
+        "effort": null
+    },
+    {
+        "id": 80,
+        "name": "Nguyễn Nhân Viên 0080",
+        "departmentCode": "D3",
+        "departmentName": "F2-SE2",
+        "effort": null
+    },
+    {
+        "id": 81,
+        "name": "Nguyễn Nhân Viên 0081",
+        "departmentCode": "D3",
+        "departmentName": "F2-SE2",
+        "effort": null
+    },
+    {
+        "id": 85,
+        "name": "Nguyễn Nhân Viên 0085",
+        "departmentCode": "QA2",
+        "departmentName": "F1-QA",
+        "effort": null
+    },
+    {
+        "id": 89,
+        "name": "Nguyễn Nhân Viên 0089",
+        "departmentCode": "D2",
+        "departmentName": "F2-SE1",
+        "effort": null
+    },
+    {
+        "id": 92,
+        "name": "Nguyễn Nhân Viên 0092",
+        "departmentCode": "QA2",
+        "departmentName": "F1-QA",
+        "effort": null
+    },
+    {
+        "id": 110,
+        "name": "Nguyễn Nhân Viên 0110",
+        "departmentCode": "QA2",
+        "departmentName": "F1-QA",
+        "effort": null
+    },
+    {
+        "id": 115,
+        "name": "Nguyễn Nhân Viên 0115",
+        "departmentCode": "CRM_SOFTWARE_DEVELOPMENT",
+        "departmentName": "CRM - Khối phát triển phần mềm",
+        "effort": null
+    },
+    {
+        "id": 117,
+        "name": "Nguyễn Nhân Viên 0117",
+        "departmentCode": "D2",
+        "departmentName": "F2-SE1",
+        "effort": null
+    },
+    {
+        "id": 118,
+        "name": "Nguyễn Nhân Viên 0118",
+        "departmentCode": "D3",
+        "departmentName": "F2-SE2",
+        "effort": null
+    },
+    {
+        "id": 123,
+        "name": "Nguyễn Nhân Viên 0123",
+        "departmentCode": "QA1",
+        "departmentName": "F2-QA",
+        "effort": null
+    },
+    {
+        "id": 124,
+        "name": "Nguyễn Nhân Viên 0124",
+        "departmentCode": "D2",
+        "departmentName": "F2-SE1",
+        "effort": null
+    }
+]
